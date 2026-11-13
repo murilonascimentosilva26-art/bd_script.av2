@@ -1,1 +1,0 @@
-# bd_script.av2
